@@ -20,7 +20,7 @@ Two output streams are available from this source:
 
 ### Performance considerations
 
-Rate Limiting information is updated [here](https://www.aha.io/api#rate-limiting).
+Rate limiting information is updated [here](https://www.aha.io/api#rate-limiting).
 
 ## Getting started
 
